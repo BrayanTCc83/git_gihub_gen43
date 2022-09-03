@@ -8,19 +8,14 @@
   <img src="img/link.png" align = "right"  width="250"/>
 </p>
 
-Créditos de la wiki:  [https://zelda.fandom.com/es/wiki/Link]("https://zelda.fandom.com/es/wiki/Link")
+Créditos de la wiki: [https://zelda.fandom.com/wiki/Link]("https://zelda.fandom.com/wiki/Link")
 
 > **Comandos de git:** [Git Cheat Sheet]("https://zelda.fandom.com/wiki/Link")
 
 Holas a todos y bienvenidos sean al curso de Git + GitHub. Saber git es vital para trabajar en la industria del software así que mucho ojo.
 
 Como creo todavía no tienen experiencia en la parte de programación (algún valiente que acepte preguntas le damos un premio), haremos la creación de un wiki de Link de The Legend of Zelda.
-### Evaluación 🤖✍🏻
 
-| Criterio | Porcentaje|
-|:--------:|:---------:|
-| Proyecto |    70%    |
-| Tarea    |    20%    |
 
 ### Equipos:
 
@@ -83,3 +78,4 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 
 
+Brayan Téllez Cruz :)
